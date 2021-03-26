@@ -35,7 +35,7 @@ from glue_statistics.icons import REFRESH_LOGO
 
 @viewer_tool
 class Refresh(Tool):
-	#icon = '/Users/jk317/Glue/icons/glue_refresh.png'
+	icon = REFRESH_LOGO
 	tool_id = 'refresh'
 	action_text = 'Refresh'
 
