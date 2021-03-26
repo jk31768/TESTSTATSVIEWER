@@ -30,7 +30,7 @@ from glue.icons.qt import helpers
 from qtpy import compat, QtWidgets
 from glue.config import auto_refresh
 auto_refresh(True)
-from glue_statistics.icons import REFRESH_LOGO
+from TESTSTATSVIEWER.StatsDataViewer import REFRESH_LOGO
 
 
 @viewer_tool
